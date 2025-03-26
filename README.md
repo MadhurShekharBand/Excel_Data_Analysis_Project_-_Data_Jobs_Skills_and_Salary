@@ -24,6 +24,8 @@ The following Excel skills were utilized for analysis:
 - DAX (Data Analysis Expressions)
 - Power Query
 - Power Pivot
+<br>
+<br>
 
 # 1. Do more skills get you better pay?
 
