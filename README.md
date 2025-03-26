@@ -27,12 +27,16 @@ The following Excel skills were utilized for analysis:
 
 # 1. Do more skills get you better pay?
 
+Below is the data visualization I created to answer this question.
+
 ![Data Visualization 1](https://github.com/user-attachments/assets/21e88b99-e563-4d56-a334-d957756d176d)
 
 ### Insights:
 There is a positive correlation between the number of skills requested in job postings and the median salary, especially in roles like Senior Data Engineer and Data Scientist, while positions that require fewer skills, such as Business Analyst, tend to offer lower salaries, suggesting that specialized skill sets are more highly valued. This trend emphasizes the importance of acquiring a diverse range of relevant skills, particularly for individuals aiming to secure higher-paying roles in the competitive job market.
 
 # 2. What’s the salary for data jobs in different regions?
+
+Below is the data visualization I created to answer this question.
 
 ![Data Visualization 2](https://github.com/user-attachments/assets/e27a12b0-4216-45be-9d70-b9793f0b5a44)
 
@@ -41,12 +45,16 @@ Job roles like Senior Data Engineer and Data Scientist command higher median sal
 
 # 3. What are the top skills of data professionals?
 
+Below is the data visualization I created to answer this question.
+
 ![Data Visualization 3](https://github.com/user-attachments/assets/3586097c-79df-4b31-b9a0-d5927d8aeb82)
 
 ### Insights:
 SQL and Python dominate as top skills in data-related jobs, reflecting their foundational role in data processing and analysis. Emerging technologies like AWS and Azure also show significant presence, highlighting the industry's shift towards cloud services and big data technologies. Understanding these prevalent skills not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
 
 # 4. What’s the pay of the top 10 skills?
+
+Below is the data visualization I created to answer this question.
 
 ![Data Visualization 4](https://github.com/user-attachments/assets/18cce47a-54e3-4ff8-b371-2d22589dd46c)
 
