@@ -5,6 +5,7 @@ As a former job seeker, I was often struck by the lack of comprehensive data exp
 # Project Files:
 - **Data Files**: The data files in Excel Worksheet format are available here: [Data Files](https://github.com/MadhurShekharBand/Excel_Data_Analysis_Project_-_Data_Jobs_Skills_and_Salary/tree/2f3ae8aa5a6fe00e6d1e2f72709ca6a7518eacb1/Data) 
 - **Excel Data Analysis File:** The Excel data analysis file is available here: [Excel Data Analysis File](https://github.com/MadhurShekharBand/Excel_Data_Analysis_Project_-_Data_Jobs_Skills_and_Salary/blob/2f3ae8aa5a6fe00e6d1e2f72709ca6a7518eacb1/Data%20Analysis%20Excel%20File.xlsx)
+- **Data Visualizations:** I created four data visualizations in Excel Data Analysis File to answer the four questions. Screenshots of those visualizations are available here: [Data Visualizations](https://github.com/MadhurShekharBand/Excel_Data_Analysis_Project_-_Data_Jobs_Skills_and_Salary/tree/23960ab624b8e8744756a0f4380b5c9c49b7d4b8/Data%20Visualizations)
 
 # Background:
 
